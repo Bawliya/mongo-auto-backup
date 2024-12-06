@@ -1,0 +1,18 @@
+{
+  "name": "node-db-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "child-process": "^1.0.2",
+    "cron-job": "^1.0.3",
+    "mongodb": "^6.11.0",
+    "util": "^0.12.5"
+  }
+}
